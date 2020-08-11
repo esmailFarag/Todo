@@ -18,10 +18,6 @@ Are you new to Flutter? Start [here](https://flutter.io/) !
 - Widget tests
 - Integration tests (Automation)
 
-### Screenshots
-![Listing Items](https://github.com/Morthor/flutter_todo_app_talk/blob/develop/screenshots/list_items2.png)
-![New Item](https://github.com/Morthor/flutter_todo_app_talk/blob/develop/screenshots/new_item.png)
-![Remove Item](https://github.com/Morthor/flutter_todo_app_talk/blob/develop/screenshots/remove_item2.png)
-![Completed Item](https://github.com/Morthor/flutter_todo_app_talk/blob/develop/screenshots/list_items_completed2.png)
+ 
 
 Check the other branches for extra funcionality!
